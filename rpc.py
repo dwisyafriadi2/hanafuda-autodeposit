@@ -1,4 +1,3 @@
 # Hardcoded RPC URLs
-provider_url = "https://1rpc.io/base"
-alchemy_url = "YOUR_ALCHEMY_URL"
+RPC_URL = "YOUR_RPC_URL_HERE"
 hanafuda_url = "https://hanafuda-backend-app-520478841386.us-central1.run.app/graphql"
